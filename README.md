@@ -1,2 +1,20 @@
-# toothed-component-angle-dataset
-Preview of a visual dataset for minimum-angle measurement of toothed components.
+# Toothed Component Angle Measurement Dataset
+
+This repository provides a preview of a visual dataset for minimum-angle
+measurement of toothed components, including sleeve front, sleeve back,
+and spline shaft samples.
+
+The images were collected under different imaging conditions, including
+normal backgrounds, interference, lens haze, and slight camera tilt.
+Each sample is associated with 16 ordered tooth-profile keypoints.
+
+## Data Availability
+
+Only representative preview images are provided at this stage.
+The complete dataset and annotations will be released after acceptance
+of the associated paper.
+
+## Intended Use
+
+The dataset is intended for research on visual measurement, keypoint
+localization, geometric constraints, and minimum-angle estimation.
