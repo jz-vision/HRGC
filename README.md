@@ -1,4 +1,4 @@
-# toothed-angle
+# Toothed Angle Dataset
 
 This repository provides a preview of a visual dataset for minimum-angle
 measurement of toothed components, including sleeve front, sleeve back,
